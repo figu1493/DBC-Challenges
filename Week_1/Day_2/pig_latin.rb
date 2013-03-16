@@ -32,7 +32,5 @@ print pig_latin("john is thinking")
 puts ''
 print pig_latin("john")
 puts ''
-# print pig_latin("think")
-# puts ''
-# print pig_latin("sport")
-# puts ''
+print pig_latin("john's computer speaks pig latin")
+puts ''
