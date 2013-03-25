@@ -1,3 +1,5 @@
+# This is NOT complete. Need to ARGVify Pig latin
+
 puts "The command line arguments are:"
 puts ARGV.inspect
 puts ""
